@@ -206,18 +206,6 @@ typecheck program;
 evaluate program;
 ```
 
-## 🏆 Project Impact
-
-This project showcases:
-
-- **Deep understanding** of programming language theory and implementation
-- **Advanced programming skills** in functional programming (SML)
-- **Software engineering** practices with modular, maintainable code
-- **Complex problem solving** in compiler/interpreter design
-- **Academic rigor** appropriate for graduate-level coursework
-
-The Nexus language interpreter represents a significant achievement in programming language implementation, demonstrating both theoretical knowledge and practical programming skills essential for systems programming, compiler development, and language design roles.
-
 ---
 
 _Developed for CSC 430 (Programming Languages) - Cal Poly San Luis Obispo_
